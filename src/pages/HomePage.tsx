@@ -5,7 +5,7 @@ import Stats from '../components/home/Stats';
 import Testimonials from '../components/home/Testimonials';
 import Team from '../components/home/Team';
 import FAQ from '../components/home/FAQ';
-import BlogSection from '../components/home/BlogSection';
+//import BlogSection from '../components/home/BlogSection';
 import CTA from '../components/home/CTA';
 
 export default function HomePage() {
@@ -23,7 +23,7 @@ export default function HomePage() {
       <Stats />
       <Testimonials />
       <Team />
-      <BlogSection />
+      //
       <FAQ />
       <CTA />
     </main>

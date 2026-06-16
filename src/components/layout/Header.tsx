@@ -21,7 +21,7 @@ const navLinks = [
   },
   { label: 'Services', page: 'contact' },
   { label: 'À propos', page: 'about' },
-  { label: 'Blog', page: 'blog' },
+  //{ label: 'Blog', page: 'blog' },
   { label: 'Contact', page: 'contact' },
 ];
 
@@ -57,7 +57,7 @@ export default function Header() {
                 <Phone size={12} /> +221 77 430 83 44
               </a>
               <a href="mailto:contact@absimmo.sn" className="flex items-center gap-1.5 hover:text-[#D4AF37] transition-colors">
-                <Mail size={12} /> contact@absimmo.sn
+                <Mail size={12} /> elhadjisane1990@gmail.com
               </a>
             </div>
             <div className="flex items-center gap-4">

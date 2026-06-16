@@ -66,11 +66,11 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <Mail size={15} className="text-[#D4AF37] flex-shrink-0" />
-                <a href="mailto:contact@absimmo.sn" className="hover:text-white transition-colors">contact@absimmo.sn</a>
+                <a href="mailto:contact@absimmo.sn" className="hover:text-white transition-colors">elhadjisane1990@gmail.com</a>
               </div>
               <div className="flex items-start gap-3 text-gray-400">
                 <MapPin size={15} className="text-[#D4AF37] flex-shrink-0 mt-0.5" />
-                <span>Dakar, Sénégal</span>
+                <span>Cité Firdawsi, Keur Massar, Dakar, Sénégal</span>
               </div>
             </div>
             {/* Social */}

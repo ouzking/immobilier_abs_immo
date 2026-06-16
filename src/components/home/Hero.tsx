@@ -29,7 +29,7 @@ export default function Hero() {
       {/* Background */}
       <div className="absolute inset-0">
         <img
-          src="https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1920"
+          src="https://i.pinimg.com/736x/d9/9d/37/d99d376762d7dec72f94c6f4a554c129.jpg"
           alt="Luxury property"
           className="w-full h-full object-cover"
         />

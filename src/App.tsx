@@ -9,6 +9,7 @@ import PropertyDetailPage from './pages/PropertyDetailPage';
 import CartPage from './pages/CartPage';
 import CheckoutPage from './pages/CheckoutPage';
 import LoginPage from './pages/LoginPage';
+import ForgotPasswordPage from './pages/forgot-password';
 import RegisterPage from './pages/RegisterPage';
 import ClientDashboardPage from './pages/ClientDashboardPage';
 import AdminPage from './pages/AdminPage';
@@ -32,6 +33,7 @@ function AppContent() {
       case 'cart': return <CartPage />;
       case 'checkout': return <CheckoutPage />;
       case 'login': return <LoginPage />;
+      case 'forgot-password': return <ForgotPasswordPage />;
       case 'register': return <RegisterPage />;
       case 'dashboard': return <ClientDashboardPage />;
       case 'admin': return <AdminPage />;
